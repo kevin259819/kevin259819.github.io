@@ -1,0 +1,35 @@
+#title {
+    text-align: center;
+}
+
+body {
+    background-image: url(https://www.xtrafondos.com/wallpapers/paisaje-de-montanas-en-el-bosque-diseno-minimalista-6345.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+section.A1 {
+    background-color: rgba(44, 180, 221, 0.5);
+    font-weight: 700;
+}
+
+.imagen_derecha {
+    float: right;
+    width: 200px;
+    height: auto;
+    margin-left: 20px;
+}
+
+section#xp {
+    background-color: rgba(79, 26, 92, 0.5);
+    font-weight: 700;
+}
+
+span.en_curso {
+    color: green;
+}
+
+span.Completo {
+    color: red;
+}
